@@ -16,7 +16,7 @@ Add this to your `package.json` file:
 
 ```json
 "browserslist": [
-	"extends @wordpress/browserslist-config"
+  "extends @collabco/browserslist-config"
 ]
 ```
 
