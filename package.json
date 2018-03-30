@@ -1,0 +1,16 @@
+{
+  "name": "@collabco/browserslist-config",
+  "version": "1.0.0",
+  "description": "Collabco Browserslist Shared Config",
+  "author": "Collabco",
+  "keywords": [
+    "collabco",
+    "browserslist",
+    "browserslist-config"
+  ],
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {}
+}
