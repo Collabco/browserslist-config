@@ -8,9 +8,13 @@
     "browserslist",
     "browserslist-config"
   ],
+  "homepage": "https://github.com/Collabco/browserslist-config/tree/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Collabco/browserslist-config.git"
+  },
   "main": "index.js",
   "publishConfig": {
     "access": "public"
-  },
-  "devDependencies": {}
+  }
 }
